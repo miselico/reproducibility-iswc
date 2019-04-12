@@ -1,3 +1,6 @@
+
+**This is borrowed from the SIGMOD replroducibility effort. We are still working on adapting this for ISWC.**
+
 ### What is SIGMOD Reproducibility?
 
 SIGMOD Reproducibility has three goals:
@@ -146,30 +149,7 @@ A discussion about reproducibility in research including guidelines and a review
 ---
 <br/><br/>
 ### Reproducibility Committee
-**Chair:** Stratos Idreos, <span style="color:#747574">*Harvard University*</span> [[email](stratos@seas.harvard.edu)]
 
-**Advisory Committee**
-
-Dennis Shasha, <span style="color:#747574">*New York University, USA*</span>
-
-Juliana Freire, <span style="color:#747574">*New York University, USA*</span>
-
-**Committee**
-
-*Boston University, USA*: <span style="color:#747574">Manos Athanassoulis, Subhadeep Sarkar</span>
-
-*UMass Dartmouth, USA*: <span style="color:#747574">David Koop</span>
-
-*UMass Amherst, USA*: <span style="color:#747574">Sainyam Galhotra</span>
-
-*TU Dresden, Germany*: <span style="color:#747574">Wolfgang Lehner</span>
-
-*ETH Zurich, Switzerland*: <span style="color:#747574">Lefteris Sidirourgos</span>
-
-*Sungkyunkwan University, Korea*: <span style="color:#747574">Sang Won Lee</span>
-
-<br/><br/>
-<br/><br/>
 
 ---
 <br/>
